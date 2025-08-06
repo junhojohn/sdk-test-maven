@@ -1,0 +1,165 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.admize.sdk.android",
+    "module": "admize-sdk-android-uat",
+    "version": "1.0.11",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "uatDebugApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "admize-sdk-android-uat-1.0.11.aar",
+          "url": "admize-sdk-android-uat-1.0.11.aar",
+          "size": 1204835,
+          "sha512": "ae9edcd34d3d4c230dff8bb5638cbd09dfd2dfa4a51b7fb11020b050ddc66e9e1e8b647f9310b62730e48ab82ed008c38af9854e82716ab9ffcd22de9157b0f5",
+          "sha256": "8e15bdc5fe023c300686a0d49c98a57f059de80d7ad4ad981545c6be8391b1df",
+          "sha1": "8f4e7de6d0b4b5272336d6ace7e1ff33c6f7197d",
+          "md5": "d4523a2fa93e4aeb109768b74ed76b8e"
+        }
+      ]
+    },
+    {
+      "name": "uatDebugRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.3.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.4.0"
+          }
+        },
+        {
+          "group": "com.google.android.gms",
+          "module": "play-services-ads-identifier",
+          "version": {
+            "requires": "18.0.1"
+          }
+        },
+        {
+          "group": "com.google.android.gms",
+          "module": "play-services-appset",
+          "version": {
+            "requires": "16.0.2"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "retrofit",
+          "version": {
+            "requires": "2.9.0"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "converter-gson",
+          "version": {
+            "requires": "2.9.0"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "adapter-rxjava3",
+          "version": {
+            "requires": "2.9.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "logging-interceptor",
+          "version": {
+            "requires": "4.9.1"
+          }
+        },
+        {
+          "group": "io.reactivex.rxjava3",
+          "module": "rxandroid",
+          "version": {
+            "requires": "3.0.0"
+          }
+        },
+        {
+          "group": "io.reactivex.rxjava3",
+          "module": "rxjava",
+          "version": {
+            "requires": "3.0.0"
+          }
+        },
+        {
+          "group": "androidx.work",
+          "module": "work-runtime",
+          "version": {
+            "requires": "2.7.1"
+          }
+        },
+        {
+          "group": "androidx.room",
+          "module": "room-runtime",
+          "version": {
+            "requires": "2.3.0"
+          }
+        },
+        {
+          "group": "androidx.room",
+          "module": "room-rxjava3",
+          "version": {
+            "requires": "2.3.0"
+          }
+        },
+        {
+          "group": "androidx.room",
+          "module": "room-paging",
+          "version": {
+            "requires": "2.4.0-rc01"
+          }
+        },
+        {
+          "group": "androidx.multidex",
+          "module": "multidex",
+          "version": {
+            "requires": "2.0.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "admize-sdk-android-uat-1.0.11.aar",
+          "url": "admize-sdk-android-uat-1.0.11.aar",
+          "size": 1204835,
+          "sha512": "ae9edcd34d3d4c230dff8bb5638cbd09dfd2dfa4a51b7fb11020b050ddc66e9e1e8b647f9310b62730e48ab82ed008c38af9854e82716ab9ffcd22de9157b0f5",
+          "sha256": "8e15bdc5fe023c300686a0d49c98a57f059de80d7ad4ad981545c6be8391b1df",
+          "sha1": "8f4e7de6d0b4b5272336d6ace7e1ff33c6f7197d",
+          "md5": "d4523a2fa93e4aeb109768b74ed76b8e"
+        }
+      ]
+    }
+  ]
+}
