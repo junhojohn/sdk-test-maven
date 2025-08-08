@@ -26,11 +26,11 @@
         {
           "name": "admize-sdk-android-uat-1.0.16.aar",
           "url": "admize-sdk-android-uat-1.0.16.aar",
-          "size": 1204802,
-          "sha512": "190405056f73a652081f02e66409f6f467634ace4f4ecc0ec1350f40dd80653c737bc8193e0b05143cbfa77d0d2db39439479d77ff15aac139c61bb6d9441060",
-          "sha256": "8f0dcad452cb5c2b6db7a6ef196e0dd47ff56906ac046857794cefa796e5356d",
-          "sha1": "42041096a0128b8be586116448807bdcb6965c5a",
-          "md5": "54d76cb2a38a5c6ef31ffae1e6d9f637"
+          "size": 1205322,
+          "sha512": "ed1b1e16823356e0e8865036f5c8624d29ae683173d8dae2120e54a906f592f2ebbfe3bfc19cb4abf0dfff73a8fc361fc93b0838f88b6a07442fb88444eb0751",
+          "sha256": "57d8628da868cefbd512ffd6c2583552ad1f9ff24e85772e83cf7e330d045bae",
+          "sha1": "0453fda18cf0c4ce03dd31a32fe304bf2d0cf0ed",
+          "md5": "fde3df5e2b49918451694b9817fefa9c"
         }
       ]
     },
@@ -153,11 +153,11 @@
         {
           "name": "admize-sdk-android-uat-1.0.16.aar",
           "url": "admize-sdk-android-uat-1.0.16.aar",
-          "size": 1204802,
-          "sha512": "190405056f73a652081f02e66409f6f467634ace4f4ecc0ec1350f40dd80653c737bc8193e0b05143cbfa77d0d2db39439479d77ff15aac139c61bb6d9441060",
-          "sha256": "8f0dcad452cb5c2b6db7a6ef196e0dd47ff56906ac046857794cefa796e5356d",
-          "sha1": "42041096a0128b8be586116448807bdcb6965c5a",
-          "md5": "54d76cb2a38a5c6ef31ffae1e6d9f637"
+          "size": 1205322,
+          "sha512": "ed1b1e16823356e0e8865036f5c8624d29ae683173d8dae2120e54a906f592f2ebbfe3bfc19cb4abf0dfff73a8fc361fc93b0838f88b6a07442fb88444eb0751",
+          "sha256": "57d8628da868cefbd512ffd6c2583552ad1f9ff24e85772e83cf7e330d045bae",
+          "sha1": "0453fda18cf0c4ce03dd31a32fe304bf2d0cf0ed",
+          "md5": "fde3df5e2b49918451694b9817fefa9c"
         }
       ]
     }
